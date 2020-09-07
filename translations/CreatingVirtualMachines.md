@@ -10,6 +10,8 @@ In this lab, you learn how to perform the following tasks:
 
     -Create advanced VMs
 
+## Before started , note that all commands used there are based on my lab (such as my project name , project ID etc.), you must use yours too.   
+
 ## Steps 
 
 1. Create a utility virtual machine

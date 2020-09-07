@@ -8,6 +8,9 @@ In this lab, you will learn how to perform the following tasks:
     -Create a Compute Engine virtual machine using the gcloud command-line interface.
 
     -Connect between the two instances.
+
+## Before started , note that all commands used there are based on my lab (such as my project name , project ID etc.), you must use yours too.   
+
 ## Steps:
 
 1. Create a virtual machine using the GCP Console 

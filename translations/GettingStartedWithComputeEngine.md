@@ -24,14 +24,14 @@ In this lab, you will learn how to perform the following tasks:
 2. Create a virtual machine using the gcloud command line
 
     -To display a list of all the zones in the region 
-    
+
         gcloud compute zones list | grep us-central1
 
     -To set your default zone to the one you just chose
 
         gcloud config set compute/zone us-central1-b
 
-    -To create a VM sudo nano /var/www/html/index.nginx-debian.htmlinstance called my-vm-2 in that zone
+    -To create a VM linstance called my-vm-2 in that zone
 
         gcloud compute instances create "my-vm-2" \
         --machine-type "n1-standard-1" \
